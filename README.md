@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+#React-Trello
+Created by following along with the video series [React.js Academy for Beginners with Firebase](https://www.packtpub.com/product/react-js-academy-for-beginners-with-firebase-video/9781839216251), from Packt Publishing.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://static.packt-cdn.com/products/9781839216251/cover/smaller)
+
+ 
+####This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
